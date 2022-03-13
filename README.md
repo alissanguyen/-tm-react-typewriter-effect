@@ -1,9 +1,5 @@
 # React useTypewriter
 
-[![CircleCI](https://circleci.com/gh/tameemsafi/typewriterjs.svg?style=svg)](https://circleci.com/gh/tameemsafi/typewriterjs)
-
-![](preview.gif)
-
 [NPM Repository](https://npmjs.org/typewriter-effect)
 
 ## Installation
