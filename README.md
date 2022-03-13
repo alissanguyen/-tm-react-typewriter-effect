@@ -1,6 +1,6 @@
 # React useTypewriter
 
-[NPM Repository](https://npmjs.org/typewriter-effect)
+[NPM Repository](https://www.npmjs.com/package/use-typewriter-hook)
 
 ## Installation
 
